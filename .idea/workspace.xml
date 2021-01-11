@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/algorithmPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210105/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210106/quick_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210107/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210111/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/20210110/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210110/quick_sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,25 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20210110/quick_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20210107/bubble_sort.py">
+        <entry file="file://$PROJECT_DIR$/20210111/quick_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="131">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,14 +39,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/20210110/quick_sort.py" />
+        <option value="$PROJECT_DIR$/20210111/quick_sort.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1624" />
-    <option name="y" value="72" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1547" />
+    <option name="y" value="65" />
     <option name="width" value="1380" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -71,7 +68,27 @@
             <path>
               <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="20210105" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="20210106" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="20210107" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
               <item name="20210110" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="20210111" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -98,7 +115,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.quick_sort (1)">
+    <configuration name="quick_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithmPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210111/quick_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +162,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quick_sort (1)" />
         <item itemvalue="Python.quick_sort" />
       </list>
     </recent_temporary>
@@ -137,19 +177,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610348740103</updated>
-      <workItem from="1610348751532" duration="1607000" />
+      <workItem from="1610348751532" duration="3341000" />
     </task>
+    <task id="LOCAL-00001" summary="算法练习">
+      <created>1610368350267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610368350267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1607000" />
+    <option name="totallyTimeSpent" value="3341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1624" y="72" width="1380" height="744" extended-state="0" />
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35530302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -159,7 +207,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -201,19 +249,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1610348813087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210110" />
+    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1610369669008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210110" />
+    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1610369721742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210111" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20210110/quick_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CUsersAdministrator.YICHE-20160608H.sshgithub_rsa">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -221,10 +264,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20210110/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20210107/bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        <state relative-caret-position="266">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20210111/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
