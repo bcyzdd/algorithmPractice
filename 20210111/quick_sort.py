@@ -20,30 +20,54 @@
 def quick_sort(data, left, right):
     if left < right:
         mid = partition(data, left, right)
+        print('mid 执行完成后的 data:', data)
         quick_sort(data, left, mid - 1)
         quick_sort(data, mid + 1, right)
 
 
 def partition(data, left, right):
     tmp = data[left]
+    print('tmp:',tmp)
+    i = 1
     while left < right:
-        while left < right and data[right] >= tmp:
-            right -= 1
-        data[left] = data[right]
+        print('执行第{}次大循环'.format(i))
+        print('left:{},right:{}'.format(left,right))
         
+        n = 1
+        while left < right and data[right] >= tmp:
+            print('比较右边的值，执行第{}次循环'.format(n))
+            print('data[right]{} >= tmp{}'.format(data[right],tmp))
+            right -= 1
+            n+=1
+            print('right:',right)
+
+        data[left] = data[right]
+        print('右边的值比较完成后，data[left]:{},data[right]:{}'.format(data[left],data[right]))
+        
+        n = 1
         while left < right and data[left] <= tmp:
+            print('比较左边的值，执行第{}次循环'.format(n))
+            print('data[left]{} <= tmp {}:'.format(data[left],tmp))
             left += 1
+            n += 1
+            print('left',left)
+        
         data[right] = data[left]
+        print('左边的值比较完成后，data[right]:{},data[left]:{}'.format(data[right], data[left]))
+        i+=1
+        
+    print('大循环结束后，data[left]:{},tmp:{}'.format(data[left],tmp))
     data[left] = tmp
+    print('left',left)
     return left
 
 
 if __name__ == '__main__':
     import random
     
-    data_list = list(range(30))
+    data_list = list(range(5))
     random.shuffle(data_list)
     
     print('pre', data_list)
     quick_sort(data_list, left=0, right=len(data_list) - 1)
-    print('after', data_list)
+    # print('after', data_list)
