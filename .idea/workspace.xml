@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="" />
+    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20210113/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,21 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20210111/quick_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="49" column="67" lean-forward="true" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20210112/quick_sort.py">
+        <entry file="file://$PROJECT_DIR$/20210113/quick_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="152">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -46,14 +40,15 @@
         <option value="$PROJECT_DIR$/20210110/quick_sort.py" />
         <option value="$PROJECT_DIR$/20210111/quick_sort.py" />
         <option value="$PROJECT_DIR$/20210112/quick_sort.py" />
+        <option value="$PROJECT_DIR$/20210113/quick_sort.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1337" />
+    <option name="y" value="-15" />
+    <option name="width" value="982" />
+    <option name="height" value="521" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,7 +58,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,10 +65,21 @@
               <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="20210112" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="20210113" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -83,6 +88,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/base" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\document\algorithmPractice\base" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quick_sort (2)">
+  <component name="RunManager" selected="Python.quick_sort (3)">
     <configuration name="quick_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,6 +151,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="quick_sort (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithmPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210113" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210113/quick_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +197,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quick_sort (3)" />
         <item itemvalue="Python.quick_sort (2)" />
         <item itemvalue="Python.quick_sort (1)" />
         <item itemvalue="Python.quick_sort" />
@@ -183,7 +216,10 @@
       <updated>1610348740103</updated>
       <workItem from="1610348751532" duration="3420000" />
       <workItem from="1610423283879" duration="43000" />
-      <workItem from="1610449272960" duration="5406000" />
+      <workItem from="1610449272960" duration="5972000" />
+      <workItem from="1610505263843" duration="26000" />
+      <workItem from="1610604669693" duration="651000" />
+      <workItem from="1610709280498" duration="516000" />
     </task>
     <task id="LOCAL-00001" summary="算法练习">
       <created>1610368350267</created>
@@ -206,21 +242,35 @@
       <option name="project" value="LOCAL" />
       <updated>1610455323448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="快速排序备注分析">
+      <created>1610455876133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610455876133</updated>
+    </task>
+    <task id="LOCAL-00005" summary="基本七种算法">
+      <created>1610455981909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610455981909</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8869000" />
+    <option name="totallyTimeSpent" value="10628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44468546" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29392624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,10 +334,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法练习" />
     <MESSAGE value="快速排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="快速排序" />
+    <MESSAGE value="快速排序备注分析" />
+    <MESSAGE value="基本七种算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本七种算法" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1610369669008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210110" />
+    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__3_.coverage" NAME="quick_sort (3) Coverage Results" MODIFIED="1610709743206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210113" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1610454483155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210111" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__2_.coverage" NAME="quick_sort (2) Coverage Results" MODIFIED="1610455284639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210112" />
   </component>
@@ -323,15 +376,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20210111/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="49" column="67" lean-forward="true" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
+        <state relative-caret-position="931">
+          <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/base/binary_search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/20210112/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="169">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20210113/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>
