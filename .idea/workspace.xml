@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20210119/insert_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequence/Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210120/insert_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210121/insert_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,34 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/20210119/insert_sort.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/BaseAlgorithm/insert_sort.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20210121/insert_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +50,8 @@
         <option value="$PROJECT_DIR$/20210118/quick_sort.py" />
         <option value="$PROJECT_DIR$/Sequence/Sequence.py" />
         <option value="$PROJECT_DIR$/20210119/insert_sort.py" />
+        <option value="$PROJECT_DIR$/20210120/insert_sort.py" />
+        <option value="$PROJECT_DIR$/20210121/insert_sort.py" />
       </list>
     </option>
   </component>
@@ -84,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,12 +79,12 @@
             <path>
               <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="20210119" type="462c0819:PsiDirectoryNode" />
+              <item name="20210120" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="20210121" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithmPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -111,6 +95,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.insert_sort">
+  <component name="RunManager" selected="Python.insert_sort (2)">
     <configuration name="Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubble_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="insert_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210118" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210120" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210118/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210120/insert_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="insert_sort (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210115" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210121" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210115/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210121/insert_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.insert_sort (2)" />
+        <item itemvalue="Python.insert_sort (1)" />
         <item itemvalue="Python.insert_sort" />
         <item itemvalue="Python.Sequence" />
         <item itemvalue="Python.quick_sort" />
-        <item itemvalue="Python.bubble_sort (1)" />
-        <item itemvalue="Python.bubble_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +262,9 @@
       <workItem from="1610973268001" duration="1047000" />
       <workItem from="1611024011633" duration="29000" />
       <workItem from="1611037136447" duration="2479000" />
-      <workItem from="1611147042809" duration="407000" />
+      <workItem from="1611147042809" duration="565000" />
+      <workItem from="1611216561266" duration="16000" />
+      <workItem from="1611313034332" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="算法练习">
       <created>1610368350267</created>
@@ -349,22 +336,29 @@
       <option name="project" value="LOCAL" />
       <updated>1610974277649</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="插入排序">
+      <created>1611147504551</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611147504552</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17993000" />
+    <option name="totallyTimeSpent" value="18880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21748401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27114967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27006507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,16 +429,19 @@
     <MESSAGE value="面向对象编程，重载示例" />
     <MESSAGE value="冒泡排序" />
     <MESSAGE value="冒泡排序/快速排序默写" />
-    <option name="LAST_COMMIT_MESSAGE" value="冒泡排序/快速排序默写" />
+    <MESSAGE value="插入排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="插入排序" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithmPractice$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1610714971215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210115" />
+    <SUITE FILE_PATH="coverage/algorithmPractice$insert_sort__1_.coverage" NAME="insert_sort (1) Coverage Results" MODIFIED="1611313376816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210120" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1610974258710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210118" />
     <SUITE FILE_PATH="coverage/algorithmPractice$bubble_sort__1_.coverage" NAME="bubble_sort (1) Coverage Results" MODIFIED="1610973690377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210118" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__3_.coverage" NAME="quick_sort (3) Coverage Results" MODIFIED="1610709743206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210113" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1610454483155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210111" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__4_.coverage" NAME="quick_sort (4) Coverage Results" MODIFIED="1610710187805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210114" />
     <SUITE FILE_PATH="coverage/algorithmPractice$Sequence.coverage" NAME="Sequence Coverage Results" MODIFIED="1611039032051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sequence" />
+    <SUITE FILE_PATH="coverage/algorithmPractice$insert_sort__2_.coverage" NAME="insert_sort (2) Coverage Results" MODIFIED="1611313750229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210121" />
     <SUITE FILE_PATH="coverage/algorithmPractice$overloading.coverage" NAME="overloading Coverage Results" MODIFIED="1610711410663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesignPattern" />
     <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__2_.coverage" NAME="quick_sort (2) Coverage Results" MODIFIED="1610455284639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210112" />
     <SUITE FILE_PATH="coverage/algorithmPractice$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1611147410041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210119" />
@@ -564,8 +561,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20210119/insert_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="418">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20210120/insert_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20210121/insert_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
