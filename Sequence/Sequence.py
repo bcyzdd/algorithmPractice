@@ -44,7 +44,7 @@ class ResourceDevice:
 
 class DevicePort:
     """
-    代表社保的连接端口
+    代表设备的连接端口
     """
     
     def __init__(self, parent_device=None, name="", *args, **kwargs):
