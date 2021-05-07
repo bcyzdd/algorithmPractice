@@ -9,19 +9,19 @@
 """
 
 
-def bubble_sort(data):
-    for i in range(len(data) - 1):
-        for j in range(len(data) - i - 1):
-            if data[j] > data[j + 1]:
-                data[j], data[j + 1] = data[j + 1], data[j]
+def bubble_sort(parm):
+    for i in range(len(parm) - 1):
+        for j in range(len(parm) - i - 1):
+            if parm[j] > parm[j + 1]:
+                parm[j], parm[j + 1] = parm[j + 1], parm[j]
 
 
 if __name__ == '__main__':
     import random
-    
+
     data = list(range(30))
     random.shuffle(data)
-    
-    print('pre',data)
+
+    print('pre', data)
     bubble_sort(data)
-    print('after',data)
+    print('after', data)

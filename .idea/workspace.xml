@@ -1,79 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/core/resource/pool.py" afterDir="false" />
+    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="其他信息">
+      <change afterPath="$PROJECT_DIR$/20210507/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithmPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithmPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210105/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210105/bubble_sort.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RequestMethods/MultipartFormData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
-              <folding>
-                <element signature="e#712#727#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/core/resource/pool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="92" column="18" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
-              <folding>
-                <element signature="e#146#155#0" expanded="true" />
-                <element signature="e#273#447#0" />
-                <element signature="e#500#789#0" />
-                <element signature="e#367#530#0" />
-                <element signature="e#1085#2291#0" />
-                <element signature="e#2335#2683#0" />
-                <element signature="e#1008#2211#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RequestMethods/XwwwFromUrlencoded2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RequestMethods/Binary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RequestMethods/Raw.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-              <folding>
-                <element signature="e#545#560#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,6 +59,7 @@
     <option name="width" value="982" />
     <option name="height" value="521" />
   </component>
+  <component name="ProjectId" id="1sCjIO7duR8MEDhZYxchEBzmDUj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -161,32 +100,24 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/base" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Program Files\document\algorithmPractice\base" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.pool">
+  <component name="RunManager" selected="Python.bubble_sort">
     <configuration name="Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XwwwFromUrlencoded2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RequestMethods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210507" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RequestMethods/XwwwFromUrlencoded2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210507/bubble_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,14 +229,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bubble_sort" />
         <item itemvalue="Python.pool" />
         <item itemvalue="Python.Binary" />
         <item itemvalue="Python.Raw" />
         <item itemvalue="Python.MultipartFormData" />
-        <item itemvalue="Python.XwwwFromUrlencoded2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -474,22 +405,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -508,6 +424,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法练习" />
@@ -522,26 +439,6 @@
     <MESSAGE value="插入排序" />
     <MESSAGE value="其他信息" />
     <option name="LAST_COMMIT_MESSAGE" value="其他信息" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithmPractice$insert_sort__1_.coverage" NAME="insert_sort (1) Coverage Results" MODIFIED="1611313376816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210120" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__3_.coverage" NAME="quick_sort (3) Coverage Results" MODIFIED="1610709743206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210113" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$Raw.coverage" NAME="Raw Coverage Results" MODIFIED="1611805683758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestMethods" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$XwwwFromUrlencoded.coverage" NAME="XwwwFromUrlencoded Coverage Results" MODIFIED="1611803919130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestMethods" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$MultipartFormData.coverage" NAME="MultipartFormData Coverage Results" MODIFIED="1611804946598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestMethods" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__4_.coverage" NAME="quick_sort (4) Coverage Results" MODIFIED="1610710187805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210114" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$pool.coverage" NAME="pool Coverage Results" MODIFIED="1612770289626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesignPattern/core/resource" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$Sequence.coverage" NAME="Sequence Coverage Results" MODIFIED="1611039032051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sequence" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$overloading.coverage" NAME="overloading Coverage Results" MODIFIED="1610711410663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesignPattern" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1611147410041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210119" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1610714971215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210115" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1610974258710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210118" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$Binary.coverage" NAME="Binary Coverage Results" MODIFIED="1611805833268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestMethods" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$bubble_sort__1_.coverage" NAME="bubble_sort (1) Coverage Results" MODIFIED="1610973690377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210118" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1610454483155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210111" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$XwwwFromUrlencoded2.coverage" NAME="XwwwFromUrlencoded2 Coverage Results" MODIFIED="1611804206269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RequestMethods" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$insert_sort__2_.coverage" NAME="insert_sort (2) Coverage Results" MODIFIED="1611313750229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210121" />
-    <SUITE FILE_PATH="coverage/algorithmPractice$quick_sort__2_.coverage" NAME="quick_sort (2) Coverage Results" MODIFIED="1610455284639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20210112" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CUsersAdministrator.YICHE-20160608H.sshgithub_rsa" />
@@ -684,7 +581,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/venv/alix_tb/Lib/site-packages/urllib3/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../../venv/alix_tb/Lib/site-packages/urllib3/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
