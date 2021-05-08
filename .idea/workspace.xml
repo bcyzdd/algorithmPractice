@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="其他信息">
-      <change afterPath="$PROJECT_DIR$/20210507/bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithmPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithmPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210105/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210106/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210107/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210110/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210111/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210112/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210113/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210114/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210115/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210118/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210118/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210119/insert_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210120/insert_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.1/20210121/insert_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.5/20210507/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.5/20210508/bubble_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20210105/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210105/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210105/bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210106/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210107/bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210110/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210111/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210112/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210113/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210114/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210115/bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210118/bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210118/quick_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210119/insert_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210120/insert_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210121/insert_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210507/bubble_sort.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,19 +132,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/base" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Program Files\document\algorithmPractice\base" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bubble_sort">
+  <component name="RunManager" selected="Python.bubble_sort (1)">
     <configuration name="Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,28 +170,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MultipartFormData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithmPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RequestMethods" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RequestMethods/MultipartFormData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Raw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,6 +184,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RequestMethods/Raw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bubble_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021.5/20210508" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021.5/20210508/bubble_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bubble_sort (1)" />
         <item itemvalue="Python.bubble_sort" />
         <item itemvalue="Python.pool" />
         <item itemvalue="Python.Binary" />
         <item itemvalue="Python.Raw" />
-        <item itemvalue="Python.MultipartFormData" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612491282180</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="其他信息">
+      <created>1620385176983</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620385176983</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -427,6 +463,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="算法练习" />
     <MESSAGE value="快速排序" />
     <MESSAGE value="快速排序备注分析" />
