@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="默写冒泡排序">
-      <change afterPath="$PROJECT_DIR$/2021.5/20210510/insert_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/SingletonPattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,8 +116,8 @@
       <recent name="D:\Program Files\document\algorithmPractice\base" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.insert_sort">
-    <configuration name="Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SingletonPattern">
+    <configuration name="SingletonPattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RequestMethods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RequestMethods/Binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/SingletonPattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SingletonPattern" />
         <item itemvalue="Python.insert_sort" />
         <item itemvalue="Python.bubble_sort (1)" />
         <item itemvalue="Python.bubble_sort" />
         <item itemvalue="Python.pool" />
-        <item itemvalue="Python.Binary" />
       </list>
     </recent_temporary>
   </component>
