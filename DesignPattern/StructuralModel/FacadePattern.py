@@ -36,7 +36,7 @@ class File:
 class Server(metaclass=ABCMeta):
     @abstractmethod
     def __init__(self):
-        pass
+        self.name = 'Server'
 
     def __str__(self):
         return self.name
@@ -58,7 +58,7 @@ class FileServer(Server):
         self.state = State.new
 
     def boot(self):
-        print('boting the {}'.format(self))
+        print('booting the {}'.format(self))
         """启动文件服务器进程要求的操作"""
         self.state = State.running
 
