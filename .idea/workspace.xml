@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="默写冒泡排序">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/SingletonPattern.py" afterDir="false" />
+    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="单例模式">
+      <change afterPath="$PROJECT_DIR$/DesignPattern/FactoryPattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,28 @@
       <recent name="D:\Program Files\document\algorithmPractice\base" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SingletonPattern">
+  <component name="RunManager" selected="Python.FactoryPattern">
+    <configuration name="FactoryPattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/FactoryPattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SingletonPattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,35 +223,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithmPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/core/resource" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/core/resource/pool.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FactoryPattern" />
         <item itemvalue="Python.SingletonPattern" />
         <item itemvalue="Python.insert_sort" />
         <item itemvalue="Python.bubble_sort (1)" />
         <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.pool" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620473025612</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="单例模式">
+      <created>1620708926214</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620708926214</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -450,7 +457,8 @@
     <MESSAGE value="插入排序" />
     <MESSAGE value="其他信息" />
     <MESSAGE value="默写冒泡排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="默写冒泡排序" />
+    <MESSAGE value="单例模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="单例模式" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CUsersAdministrator.YICHE-20160608H.sshgithub_rsa" />
