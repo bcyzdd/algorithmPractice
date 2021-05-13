@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="适配器模式&#10;装饰器模式">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/StructuralModel/FacadePattern.py" afterDir="false" />
+    <list default="true" id="2318dbb1-ce03-462d-904d-9967e36cef31" name="Default Changelist" comment="外观模式修改">
+      <change afterPath="$PROJECT_DIR$/BasicGrammar/Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/AbstractFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/Factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/SimpleFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/CreativeMode/SingletonPattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CreativeMode/FactoryPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/FactoryPattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,11 +122,34 @@
       <recent name="D:\Program Files\document\algorithmPractice\base" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProjectFile\Algorithm\DesignPattern\CreativeMode\Factory" />
+      <recent name="D:\PythonProjectFile\Algorithm\BasicGrammar" />
       <recent name="D:\PythonProjectFile\Algorithm\DesignPattern\CreativeMode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FacadePattern">
-    <configuration name="AdapterPattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.AbstractFactory">
+    <configuration name="AbstractFactory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithmPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/AbstractFactory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/StructuralModel/AdapterPattern.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonProjectFile\Algorithm\BasicGrammar\Decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BuilderPattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PythonProjectFile\Algorithm\DesignPattern\CreativeMode\BuilderPattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/Factory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DecoratorPattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleFactory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/StructuralModel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/StructuralModel/DecoratorPattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/CreativeMode/Factory/SimpleFactory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FacadePattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonPattern2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,32 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/StructuralModel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern/CreativeMode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/StructuralModel/FacadePattern.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PrototypePattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithmPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPattern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PythonProjectFile\Algorithm\DesignPattern\CreativeMode\PrototypePattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPattern/CreativeMode/SingletonPattern2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FacadePattern" />
-        <item itemvalue="Python.DecoratorPattern" />
-        <item itemvalue="Python.AdapterPattern" />
-        <item itemvalue="Python.PrototypePattern" />
-        <item itemvalue="Python.BuilderPattern" />
+        <item itemvalue="Python.AbstractFactory" />
+        <item itemvalue="Python.Factory" />
+        <item itemvalue="Python.SimpleFactory" />
+        <item itemvalue="Python.SingletonPattern2" />
+        <item itemvalue="Python.DecoratorPattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +412,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620716976515</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="外观模式">
+      <created>1620718304093</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1620718304093</updated>
+    </task>
+    <task id="LOCAL-00022" summary="外观模式修改">
+      <created>1620718488868</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620718488868</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -484,18 +506,9 @@
     <MESSAGE value="工厂模式" />
     <MESSAGE value="建造者模式" />
     <MESSAGE value="适配器模式&#10;装饰器模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="适配器模式&#10;装饰器模式" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DesignPattern/StructuralModel/FacadePattern.py</url>
-          <line>138</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="外观模式" />
+    <MESSAGE value="外观模式修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="外观模式修改" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CUsersAdministrator.YICHE-20160608H.sshgithub_rsa" />
